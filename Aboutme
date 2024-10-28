@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Marcos's Projects</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="reset.css"
+  </head>
+  <body>
+    <header>
+      <h1>Marcos's Projects</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li>|</li>
+          <li><a href="aboutme.html"About Me</a></li>
+        </ul>
+      </header>
+
+      <div id="aboutme"
+
+      <h2>About Me</h2>
+      <img />
+      <p></p>
+      </nav>
+  </body>
+</html>
